@@ -53,4 +53,5 @@
   <include file="comment/locations_comment.xml"/> 
   <include file="comment/regions_comment.xml"/> 
   <include file="changelogs/v002_add_column_phone2.xml" relativeToChangelogFile="true"/>
+  <include file="changelogs/v003_add_column_email2.xml" relativeToChangelogFile="true"/>
 </databaseChangeLog> 
